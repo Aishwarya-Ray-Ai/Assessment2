@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\Assmnt2Ques1\obj\Debug\net8.0\Assmnt2Ques1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Assmnt2Ques1\obj\Debug\net8.0\Assmnt2Ques1.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Assmnt2Ques1\obj\Debug\net8.0\Assmnt2Ques1.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Assmnt2Ques1\obj\Debug\net8.0\Assmnt2Ques1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Assmnt2Ques1\bin\Debug\net8.0\Assmnt2Ques1.exe
+C:\Users\DELL\source\repos\Assmnt2Ques1\bin\Debug\net8.0\Assmnt2Ques1.deps.json
+C:\Users\DELL\source\repos\Assmnt2Ques1\bin\Debug\net8.0\Assmnt2Ques1.runtimeconfig.json
+C:\Users\DELL\source\repos\Assmnt2Ques1\bin\Debug\net8.0\Assmnt2Ques1.dll
+C:\Users\DELL\source\repos\Assmnt2Ques1\bin\Debug\net8.0\Assmnt2Ques1.pdb
+C:\Users\DELL\source\repos\Assmnt2Ques1\obj\Debug\net8.0\Assmnt2Ques1.dll
+C:\Users\DELL\source\repos\Assmnt2Ques1\obj\Debug\net8.0\refint\Assmnt2Ques1.dll
+C:\Users\DELL\source\repos\Assmnt2Ques1\obj\Debug\net8.0\Assmnt2Ques1.pdb
+C:\Users\DELL\source\repos\Assmnt2Ques1\obj\Debug\net8.0\Assmnt2Ques1.genruntimeconfig.cache
+C:\Users\DELL\source\repos\Assmnt2Ques1\obj\Debug\net8.0\ref\Assmnt2Ques1.dll
